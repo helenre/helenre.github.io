@@ -407,3 +407,9 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+
+/* Fontawesome */
+
+.fas-about {
+  color: rgb(123, 152, 164);
+}
